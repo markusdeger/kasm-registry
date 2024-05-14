@@ -1,6 +1,6 @@
 {
     "friendly_name": "VSCodium",
-    "image_src": "vscodium.png",
+    "image_src": "visual-studio-code.svg",
     "description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
     "name": "lscr.io/linuxserver/vscodium:latest",
     "cores": 2,
