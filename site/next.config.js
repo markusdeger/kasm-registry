@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Kasm familiedeger repository',
     description: 'A store for kasm custom workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https:/markusdeger.github.io/kasm-registry/',
+    listUrl: 'https://markusdeger.github.io/kasm-registry/',
     contactUrl: 'https://github.com/markusdeger/kasm-registry/issues',
   },
   reactStrictMode: true,
