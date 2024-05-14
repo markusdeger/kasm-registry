@@ -23,7 +23,11 @@
     ],
     "user": 1000
   },
-  "exec_config": {},
+  "exec_config": {
+    "shm_size": [
+      "1gb"
+    ]
+  },
   "architecture": [
     "amd64",
     "arm64"
